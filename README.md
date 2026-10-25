@@ -23,6 +23,7 @@
 | [0204-count-primes](https://github.com/radhika756/Leetcode-Submission/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/radhika756/Leetcode-Submission/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/radhika756/Leetcode-Submission/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/radhika756/Leetcode-Submission/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/radhika756/Leetcode-Submission/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
@@ -72,6 +73,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/radhika756/Leetcode-Submission/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
