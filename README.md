@@ -35,6 +35,7 @@
 | [1929-concatenation-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/radhika756/Leetcode-Submission/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/radhika756/Leetcode-Submission/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/radhika756/Leetcode-Submission/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/radhika756/Leetcode-Submission/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/2206-divide-array-into-equal-pairs) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/radhika756/Leetcode-Submission/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/radhika756/Leetcode-Submission/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Counting Sort
 |  |
 | ------- |
