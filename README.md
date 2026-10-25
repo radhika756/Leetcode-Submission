@@ -33,6 +33,7 @@
 | [1748-sum-of-unique-elements](https://github.com/radhika756/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/radhika756/Leetcode-Submission/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/radhika756/Leetcode-Submission/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2399-check-distances-between-same-letters](https://github.com/radhika756/Leetcode-Submission/tree/master/2399-check-distances-between-same-letters) |
