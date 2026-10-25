@@ -39,6 +39,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/radhika756/Leetcode-Submission/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/radhika756/Leetcode-Submission/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/2206-divide-array-into-equal-pairs) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/radhika756/Leetcode-Submission/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/radhika756/Leetcode-Submission/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2399-check-distances-between-same-letters](https://github.com/radhika756/Leetcode-Submission/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/radhika756/Leetcode-Submission/tree/master/2418-sort-the-people) |
@@ -53,6 +54,7 @@
 | [1748-sum-of-unique-elements](https://github.com/radhika756/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/radhika756/Leetcode-Submission/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/2206-divide-array-into-equal-pairs) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/radhika756/Leetcode-Submission/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/radhika756/Leetcode-Submission/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2399-check-distances-between-same-letters](https://github.com/radhika756/Leetcode-Submission/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/radhika756/Leetcode-Submission/tree/master/2418-sort-the-people) |
@@ -105,6 +107,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/radhika756/Leetcode-Submission/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/radhika756/Leetcode-Submission/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/radhika756/Leetcode-Submission/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/radhika756/Leetcode-Submission/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
@@ -121,6 +124,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/radhika756/Leetcode-Submission/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/radhika756/Leetcode-Submission/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/radhika756/Leetcode-Submission/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/radhika756/Leetcode-Submission/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2278-percentage-of-letter-in-string](https://github.com/radhika756/Leetcode-Submission/tree/master/2278-percentage-of-letter-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/radhika756/Leetcode-Submission/tree/master/2315-count-asterisks) |
