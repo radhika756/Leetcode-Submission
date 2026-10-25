@@ -70,5 +70,6 @@
 ## String
 |  |
 | ------- |
+| [2315-count-asterisks](https://github.com/radhika756/Leetcode-Submission/tree/master/2315-count-asterisks) |
 | [2418-sort-the-people](https://github.com/radhika756/Leetcode-Submission/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
