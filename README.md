@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/radhika756/Leetcode-Submission/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/radhika756/Leetcode-Submission/tree/master/0867-transpose-matrix) |
@@ -34,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0027-remove-element) |
 | [0832-flipping-an-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
