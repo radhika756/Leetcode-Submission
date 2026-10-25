@@ -116,6 +116,7 @@
 | [0242-valid-anagram](https://github.com/radhika756/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/radhika756/Leetcode-Submission/tree/master/0344-reverse-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/radhika756/Leetcode-Submission/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/radhika756/Leetcode-Submission/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/radhika756/Leetcode-Submission/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/radhika756/Leetcode-Submission/tree/master/2278-percentage-of-letter-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/2299-strong-password-checker-ii) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/radhika756/Leetcode-Submission/tree/master/0204-count-primes) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/radhika756/Leetcode-Submission/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Primality Test
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/radhika756/Leetcode-Submission/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/radhika756/Leetcode-Submission/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/radhika756/Leetcode-Submission/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Counting Sort
 |  |
 | ------- |
