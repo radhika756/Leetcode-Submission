@@ -27,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/radhika756/Leetcode-Submission/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/radhika756/Leetcode-Submission/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/radhika756/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [1748-sum-of-unique-elements](https://github.com/radhika756/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 | [2418-sort-the-people](https://github.com/radhika756/Leetcode-Submission/tree/master/2418-sort-the-people) |
 ## Matrix
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/radhika756/Leetcode-Submission/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/radhika756/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/radhika756/Leetcode-Submission/tree/master/2418-sort-the-people) |
 ## Counting
@@ -71,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/radhika756/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/radhika756/Leetcode-Submission/tree/master/0344-reverse-string) |
 | [2315-count-asterisks](https://github.com/radhika756/Leetcode-Submission/tree/master/2315-count-asterisks) |
 | [2418-sort-the-people](https://github.com/radhika756/Leetcode-Submission/tree/master/2418-sort-the-people) |
