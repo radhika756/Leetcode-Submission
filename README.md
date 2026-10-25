@@ -34,6 +34,7 @@
 | [1748-sum-of-unique-elements](https://github.com/radhika756/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/radhika756/Leetcode-Submission/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/radhika756/Leetcode-Submission/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/radhika756/Leetcode-Submission/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -47,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/radhika756/Leetcode-Submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/radhika756/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [1748-sum-of-unique-elements](https://github.com/radhika756/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/radhika756/Leetcode-Submission/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/radhika756/Leetcode-Submission/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2399-check-distances-between-same-letters](https://github.com/radhika756/Leetcode-Submission/tree/master/2399-check-distances-between-same-letters) |
@@ -63,6 +65,7 @@
 | [0832-flipping-an-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/radhika756/Leetcode-Submission/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1929-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/radhika756/Leetcode-Submission/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +98,7 @@
 | [0217-contains-duplicate](https://github.com/radhika756/Leetcode-Submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/radhika756/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/radhika756/Leetcode-Submission/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/radhika756/Leetcode-Submission/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
