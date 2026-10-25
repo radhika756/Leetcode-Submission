@@ -77,6 +77,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/radhika756/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/radhika756/Leetcode-Submission/tree/master/0344-reverse-string) |
+| [2278-percentage-of-letter-in-string](https://github.com/radhika756/Leetcode-Submission/tree/master/2278-percentage-of-letter-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/radhika756/Leetcode-Submission/tree/master/2315-count-asterisks) |
 | [2399-check-distances-between-same-letters](https://github.com/radhika756/Leetcode-Submission/tree/master/2399-check-distances-between-same-letters) |
