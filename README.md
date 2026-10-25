@@ -20,6 +20,7 @@
 | [0088-merge-sorted-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhika756/Leetcode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/radhika756/Leetcode-Submission/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/radhika756/Leetcode-Submission/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/radhika756/Leetcode-Submission/tree/master/0217-contains-duplicate) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/radhika756/Leetcode-Submission/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/radhika756/Leetcode-Submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/radhika756/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [1748-sum-of-unique-elements](https://github.com/radhika756/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
@@ -86,6 +88,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/radhika756/Leetcode-Submission/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/radhika756/Leetcode-Submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/radhika756/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
@@ -93,6 +96,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/radhika756/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/radhika756/Leetcode-Submission/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -152,4 +156,9 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/radhika756/Leetcode-Submission/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
