@@ -34,6 +34,7 @@
 | [1748-sum-of-unique-elements](https://github.com/radhika756/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/radhika756/Leetcode-Submission/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/radhika756/Leetcode-Submission/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/radhika756/Leetcode-Submission/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/2206-divide-array-into-equal-pairs) |
@@ -98,6 +99,7 @@
 | [0217-contains-duplicate](https://github.com/radhika756/Leetcode-Submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/radhika756/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/radhika756/Leetcode-Submission/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/radhika756/Leetcode-Submission/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/radhika756/Leetcode-Submission/tree/master/2418-sort-the-people) |
 ## Counting
@@ -168,4 +170,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/radhika756/Leetcode-Submission/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/radhika756/Leetcode-Submission/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
