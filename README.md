@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/radhika756/Leetcode-Submission/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0048-rotate-image) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/radhika756/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2399-check-distances-between-same-letters](https://github.com/radhika756/Leetcode-Submission/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/radhika756/Leetcode-Submission/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -82,4 +84,16 @@
 | [2315-count-asterisks](https://github.com/radhika756/Leetcode-Submission/tree/master/2315-count-asterisks) |
 | [2399-check-distances-between-same-letters](https://github.com/radhika756/Leetcode-Submission/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/radhika756/Leetcode-Submission/tree/master/2418-sort-the-people) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
