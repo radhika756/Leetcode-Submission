@@ -123,6 +123,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/radhika756/Leetcode-Submission/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/radhika756/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/radhika756/Leetcode-Submission/tree/master/0344-reverse-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/radhika756/Leetcode-Submission/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -236,4 +237,12 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/radhika756/Leetcode-Submission/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/radhika756/Leetcode-Submission/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/radhika756/Leetcode-Submission/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
