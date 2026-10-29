@@ -8,11 +8,11 @@ class Solution {
     public static void solve(List<List<Integer>>ans, ArrayList<Integer> curr,int[] nums,int i){
         //base case
         if(i==nums.length){
-            ArrayList<Integer> temp=new ArrayList<>();
-            for(int ele:curr){
-                temp.add(ele);
-            }
-            ans.add(temp);
+            // ArrayList<Integer> temp=new ArrayList<>();
+            // for(int ele:curr){
+            //     temp.add(ele);
+            // }
+            ans.add(new ArrayList<>(curr));
             return;
         }
         //Include
