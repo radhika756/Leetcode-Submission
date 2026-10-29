@@ -17,6 +17,7 @@
 | [0001-two-sum](https://github.com/radhika756/Leetcode-Submission/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/radhika756/Leetcode-Submission/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/radhika756/Leetcode-Submission/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/radhika756/Leetcode-Submission/tree/master/0075-sort-colors) |
@@ -256,6 +257,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/radhika756/Leetcode-Submission/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/radhika756/Leetcode-Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0090-subsets-ii) |
 ## Queue
