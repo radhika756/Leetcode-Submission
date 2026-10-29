@@ -19,6 +19,7 @@
 | [0048-rotate-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/radhika756/Leetcode-Submission/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/radhika756/Leetcode-Submission/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/radhika756/Leetcode-Submission/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhika756/Leetcode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/radhika756/Leetcode-Submission/tree/master/0136-single-number) |
@@ -92,6 +93,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/radhika756/Leetcode-Submission/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/radhika756/Leetcode-Submission/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0832-flipping-an-image) |
 | [2206-divide-array-into-equal-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/2206-divide-array-into-equal-pairs) |
@@ -245,4 +247,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/radhika756/Leetcode-Submission/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/radhika756/Leetcode-Submission/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
