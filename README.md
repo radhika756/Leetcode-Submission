@@ -239,6 +239,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/radhika756/Leetcode-Submission/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/radhika756/Leetcode-Submission/tree/master/0707-design-linked-list) |
 ## Depth-First Search
 |  |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/radhika756/Leetcode-Submission/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/radhika756/Leetcode-Submission/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -266,5 +268,6 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/radhika756/Leetcode-Submission/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/radhika756/Leetcode-Submission/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
