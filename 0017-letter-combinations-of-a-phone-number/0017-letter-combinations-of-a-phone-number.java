@@ -13,9 +13,9 @@ class Solution {
             return;
         }
         String val=map[d.charAt(i)-'0'];//abc
-
-        
+        //loop  
         for(char ch:val.toCharArray()){
+            //curr+=ch
             solve(ans,curr+ch,d,i+1);
         }
     }
