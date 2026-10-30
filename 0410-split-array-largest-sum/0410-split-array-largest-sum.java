@@ -1,8 +1,9 @@
 class Solution {
     public boolean isValid(int[] nums,int mid, int k){
+        int n=nums.length;
         int sum=0;
         int cnt=1;
-        for(int i=0;i<nums.length;i++){
+        for(int i=0;i<n;i++){
             if(nums[i]+sum>mid){
                 cnt++;
                 sum=nums[i];
@@ -12,11 +13,12 @@ class Solution {
         return cnt<=k;
     }
     public int splitArray(int[] nums, int k) {
-        if(k>nums.length) return -1;
+        int n=nums.length;
+        if(k>n) return -1;
         int s=nums[0];
         int e=0;
         int ans=-1;
-        for(int i=0;i<nums.length;i++){
+        for(int i=0;i<n;i++){
             s=Math.max(s,nums[i]);
             e+=nums[i];
         }
