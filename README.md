@@ -143,6 +143,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika756/Leetcode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/radhika756/Leetcode-Submission/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/radhika756/Leetcode-Submission/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/radhika756/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/radhika756/Leetcode-Submission/tree/master/0344-reverse-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/radhika756/Leetcode-Submission/tree/master/2124-check-if-all-as-appears-before-all-bs) |
