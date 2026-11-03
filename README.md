@@ -17,6 +17,7 @@
 | [0001-two-sum](https://github.com/radhika756/Leetcode-Submission/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/radhika756/Leetcode-Submission/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/radhika756/Leetcode-Submission/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/radhika756/Leetcode-Submission/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0047-permutations-ii) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/radhika756/Leetcode-Submission/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika756/Leetcode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/radhika756/Leetcode-Submission/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/radhika756/Leetcode-Submission/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/radhika756/Leetcode-Submission/tree/master/0160-intersection-of-two-linked-lists) |
@@ -74,6 +76,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/radhika756/Leetcode-Submission/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/radhika756/Leetcode-Submission/tree/master/0867-transpose-matrix) |
@@ -282,6 +285,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika756/Leetcode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/radhika756/Leetcode-Submission/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/radhika756/Leetcode-Submission/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/radhika756/Leetcode-Submission/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0047-permutations-ii) |
@@ -310,4 +314,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/radhika756/Leetcode-Submission/tree/master/0023-merge-k-sorted-lists) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/radhika756/Leetcode-Submission/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/radhika756/Leetcode-Submission/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
