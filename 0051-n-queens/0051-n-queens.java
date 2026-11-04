@@ -63,7 +63,7 @@ class Solution {
     public List<List<String>> solveNQueens(int n) {
         int mat[][]=new int[n][n];
         List<List<String>> ans=new ArrayList<>();
-        solve(mat,ans,0,n);
-        return ans;
+        return solve(mat,ans,0,n);
+        
     }
 }
