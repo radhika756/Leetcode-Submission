@@ -22,6 +22,7 @@
 | [0046-permutations](https://github.com/radhika756/Leetcode-Submission/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/radhika756/Leetcode-Submission/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/radhika756/Leetcode-Submission/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/radhika756/Leetcode-Submission/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/radhika756/Leetcode-Submission/tree/master/0078-subsets) |
@@ -289,6 +290,7 @@
 | [0039-combination-sum](https://github.com/radhika756/Leetcode-Submission/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/radhika756/Leetcode-Submission/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/radhika756/Leetcode-Submission/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/radhika756/Leetcode-Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0090-subsets-ii) |
 ## Queue
@@ -318,6 +320,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/radhika756/Leetcode-Submission/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/radhika756/Leetcode-Submission/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
