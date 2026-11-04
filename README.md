@@ -291,6 +291,7 @@
 | [0046-permutations](https://github.com/radhika756/Leetcode-Submission/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/radhika756/Leetcode-Submission/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/radhika756/Leetcode-Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0090-subsets-ii) |
 ## Queue
@@ -321,6 +322,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/radhika756/Leetcode-Submission/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/radhika756/Leetcode-Submission/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
 | ------- |
