@@ -1,28 +1,11 @@
 class Solution {
-    public List<Integer> findDuplicates(int[] arr) {
-        int n=arr.length;
-        List<Integer> list = new ArrayList<>();
-        cyclicsort(arr); 
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]!=i+1){
-                list.add(arr[i]);
-            }
-        }  
-        return list;     
-    }
-    public static void cyclicsort(int[] arr){
-        int i=0;
-        while(i<arr.length){
-            int crtIndex=arr[i]-1;
-             if( arr[i]!=arr[crtIndex]){
-                swap(arr,i,crtIndex);
-            }
-            else i++;
+    public List<Integer> findDuplicates(int[] nums) {
+        List<Integer> ans=new ArrayList<>();
+        for(int i=0;i<nums.length;i++){
+            int idx=Math.abs(nums[i])-1;
+            if(nums[idx]<0) ans.add(idx + 1);
+            else nums[idx]= -nums[idx];
         }
-    }
-    public static void swap(int []arr, int i,int j){
-        int temp=arr[i];
-        arr[i]=arr[j];
-        arr[j]=temp;
+        return ans;
     }
 }
