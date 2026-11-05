@@ -99,6 +99,7 @@
 | [0027-remove-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/radhika756/Leetcode-Submission/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/radhika756/Leetcode-Submission/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/radhika756/Leetcode-Submission/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/radhika756/Leetcode-Submission/tree/master/0160-intersection-of-two-linked-lists) |
@@ -151,6 +152,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika756/Leetcode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/radhika756/Leetcode-Submission/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/radhika756/Leetcode-Submission/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/radhika756/Leetcode-Submission/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/radhika756/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/radhika756/Leetcode-Submission/tree/master/0344-reverse-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/radhika756/Leetcode-Submission/tree/master/2124-check-if-all-as-appears-before-all-bs) |
