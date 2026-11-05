@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/radhika756/Leetcode-Submission/tree/master/0204-count-primes) |
+| [1512-number-of-good-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/radhika756/Leetcode-Submission/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Array
@@ -45,6 +46,7 @@
 | [1470-shuffle-the-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/radhika756/Leetcode-Submission/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/radhika756/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/radhika756/Leetcode-Submission/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/radhika756/Leetcode-Submission/tree/master/1920-build-array-from-permutation) |
@@ -72,6 +74,7 @@
 | [0217-contains-duplicate](https://github.com/radhika756/Leetcode-Submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/radhika756/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/radhika756/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/radhika756/Leetcode-Submission/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/2206-divide-array-into-equal-pairs) |
@@ -147,6 +150,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/radhika756/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/radhika756/Leetcode-Submission/tree/master/2341-maximum-number-of-pairs-in-array) |
