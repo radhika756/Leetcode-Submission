@@ -36,6 +36,7 @@
 | [0217-contains-duplicate](https://github.com/radhika756/Leetcode-Submission/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/radhika756/Leetcode-Submission/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/radhika756/Leetcode-Submission/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/radhika756/Leetcode-Submission/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/radhika756/Leetcode-Submission/tree/master/0867-transpose-matrix) |
@@ -67,6 +68,7 @@
 | [0169-majority-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/radhika756/Leetcode-Submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/radhika756/Leetcode-Submission/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/radhika756/Leetcode-Submission/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/radhika756/Leetcode-Submission/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/2206-divide-array-into-equal-pairs) |
@@ -130,6 +132,7 @@
 | [0169-majority-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/radhika756/Leetcode-Submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/radhika756/Leetcode-Submission/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/radhika756/Leetcode-Submission/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/radhika756/Leetcode-Submission/tree/master/2154-keep-multiplying-found-values-by-two) |
