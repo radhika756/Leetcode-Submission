@@ -280,6 +280,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/radhika756/Leetcode-Submission/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -290,6 +291,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/radhika756/Leetcode-Submission/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/radhika756/Leetcode-Submission/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/radhika756/Leetcode-Submission/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/radhika756/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
@@ -346,8 +348,10 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
