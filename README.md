@@ -11,6 +11,7 @@
 | [0204-count-primes](https://github.com/radhika756/Leetcode-Submission/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/radhika756/Leetcode-Submission/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/radhika756/Leetcode-Submission/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/radhika756/Leetcode-Submission/tree/master/0342-power-of-four) |
 | [1512-number-of-good-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/radhika756/Leetcode-Submission/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -127,6 +128,7 @@
 | [0090-subsets-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/radhika756/Leetcode-Submission/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/radhika756/Leetcode-Submission/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/radhika756/Leetcode-Submission/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0832-flipping-an-image) |
 | [2206-divide-array-into-equal-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/2206-divide-array-into-equal-pairs) |
 ## Prefix Sum
@@ -272,6 +274,7 @@
 | [0231-power-of-two](https://github.com/radhika756/Leetcode-Submission/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/radhika756/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/radhika756/Leetcode-Submission/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/radhika756/Leetcode-Submission/tree/master/0342-power-of-four) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/radhika756/Leetcode-Submission/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Floyd's Cycle Finding Algorithm
 |  |
