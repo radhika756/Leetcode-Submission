@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/radhika756/Leetcode-Submission/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/radhika756/Leetcode-Submission/tree/master/0231-power-of-two) |
 | [1512-number-of-good-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/radhika756/Leetcode-Submission/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/radhika756/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -124,6 +125,7 @@
 | [0078-subsets](https://github.com/radhika756/Leetcode-Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/radhika756/Leetcode-Submission/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/radhika756/Leetcode-Submission/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0832-flipping-an-image) |
 | [2206-divide-array-into-equal-pairs](https://github.com/radhika756/Leetcode-Submission/tree/master/2206-divide-array-into-equal-pairs) |
 ## Prefix Sum
@@ -266,6 +268,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/radhika756/Leetcode-Submission/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/radhika756/Leetcode-Submission/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/radhika756/Leetcode-Submission/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/radhika756/Leetcode-Submission/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/radhika756/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/radhika756/Leetcode-Submission/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Floyd's Cycle Finding Algorithm
