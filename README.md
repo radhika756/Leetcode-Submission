@@ -33,6 +33,7 @@
 | [0078-subsets](https://github.com/radhika756/Leetcode-Submission/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhika756/Leetcode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/radhika756/Leetcode-Submission/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0169-majority-element) |
@@ -71,6 +72,7 @@
 | [0001-two-sum](https://github.com/radhika756/Leetcode-Submission/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika756/Leetcode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/radhika756/Leetcode-Submission/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/radhika756/Leetcode-Submission/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/radhika756/Leetcode-Submission/tree/master/0160-intersection-of-two-linked-lists) |
@@ -227,6 +229,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/radhika756/Leetcode-Submission/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/radhika756/Leetcode-Submission/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/radhika756/Leetcode-Submission/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -373,6 +376,7 @@
 | [0101-symmetric-tree](https://github.com/radhika756/Leetcode-Submission/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/radhika756/Leetcode-Submission/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/radhika756/Leetcode-Submission/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/radhika756/Leetcode-Submission/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
@@ -388,6 +392,7 @@
 | [0101-symmetric-tree](https://github.com/radhika756/Leetcode-Submission/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/radhika756/Leetcode-Submission/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/radhika756/Leetcode-Submission/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/radhika756/Leetcode-Submission/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
