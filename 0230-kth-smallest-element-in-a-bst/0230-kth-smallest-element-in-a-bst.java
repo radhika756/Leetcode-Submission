@@ -22,7 +22,7 @@ class Solution {
         inOrder(root.right,ans);
     }
     public int kthSmallest(TreeNode root, int k) {
-        ArrayList<Integer> ans=new ArrayList<>();
+       ans=new ArrayList<>();
         inOrder(root,ans);
         return ans.get(k-1);
     }
