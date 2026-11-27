@@ -265,6 +265,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/radhika756/Leetcode-Submission/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/radhika756/Leetcode-Submission/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/radhika756/Leetcode-Submission/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/radhika756/Leetcode-Submission/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -279,6 +280,7 @@
 | [0326-power-of-three](https://github.com/radhika756/Leetcode-Submission/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/radhika756/Leetcode-Submission/tree/master/0342-power-of-four) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/radhika756/Leetcode-Submission/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/radhika756/Leetcode-Submission/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -322,6 +324,7 @@
 | [0225-implement-stack-using-queues](https://github.com/radhika756/Leetcode-Submission/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/radhika756/Leetcode-Submission/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/radhika756/Leetcode-Submission/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/radhika756/Leetcode-Submission/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -439,4 +442,8 @@
 | [0098-validate-binary-search-tree](https://github.com/radhika756/Leetcode-Submission/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/radhika756/Leetcode-Submission/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/radhika756/Leetcode-Submission/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/radhika756/Leetcode-Submission/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
