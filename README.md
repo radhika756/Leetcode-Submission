@@ -32,6 +32,7 @@
 | [0075-sort-colors](https://github.com/radhika756/Leetcode-Submission/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/radhika756/Leetcode-Submission/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/radhika756/Leetcode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/radhika756/Leetcode-Submission/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/radhika756/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/radhika756/Leetcode-Submission/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/radhika756/Leetcode-Submission/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/radhika756/Leetcode-Submission/tree/master/0085-maximal-rectangle) |
 | [0832-flipping-an-image](https://github.com/radhika756/Leetcode-Submission/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/radhika756/Leetcode-Submission/tree/master/0867-transpose-matrix) |
 ## Simulation
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/radhika756/Leetcode-Submission/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/radhika756/Leetcode-Submission/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhika756/Leetcode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/radhika756/Leetcode-Submission/tree/master/0410-split-array-largest-sum) |
 ## Quicksort
@@ -324,6 +327,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/radhika756/Leetcode-Submission/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/radhika756/Leetcode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/radhika756/Leetcode-Submission/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/radhika756/Leetcode-Submission/tree/master/0145-binary-tree-postorder-traversal) |
@@ -454,6 +458,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/radhika756/Leetcode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/radhika756/Leetcode-Submission/tree/master/0085-maximal-rectangle) |
 | [2487-remove-nodes-from-linked-list](https://github.com/radhika756/Leetcode-Submission/tree/master/2487-remove-nodes-from-linked-list) |
 ## Range Minimum/Maximum Query
 |  |
